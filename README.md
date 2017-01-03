@@ -1,5 +1,5 @@
-# calculador
-A simple calculator app
+# calculator
+A simple calculator app which is very complicated to use :P
 Git Flow information here.
 More Information Added Here
 ***********************************
